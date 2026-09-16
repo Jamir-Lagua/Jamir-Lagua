@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=560&lines=Jamir+Kenneth+D.+Lagua;Full-Stack+Developer+%7C+Quezon+City%2C+PH;The+world+unfolds+the+way+you+perceive+it." alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=660&lines=Jamir+Kenneth+D.+Lagua;Full-Stack+Developer+%7C+Quezon+City%2C+PH;See+the+world+unfolds+the+way+you+perceive+it." alt="typing banner" />
 
 <a href="https://jamirlagua.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/jamir-lagua"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[https://linkedin.com/in/jamir-lagua](https://www.linkedin.com/in/jamir-lagua-5230aa354/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=Jamir-Lagua&style=for-the-badge&color=6e7681&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
@@ -17,7 +17,7 @@ BS Information Technology graduate from Our Lady of Fatima University, building 
 - 🔭 Currently building — AI-assisted learning tools and data-driven web platforms
 - 🌱 Currently learning — backend architecture, DevOps, and cloud deployment on AWS
 - 💬 Ask me about — React, Next.js, Python, or anything networking-related
-- 📫 Reach me at — [LinkedIn](https://linkedin.com/in/jamir-lagua) · [Portfolio](https://jamirlagua.vercel.app)
+- 📫 Reach me at — [LinkedIn](https://www.linkedin.com/in/jamir-lagua-5230aa354/) · [Portfolio](https://jamirlagua.vercel.app)
 
 ---
 
