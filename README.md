@@ -25,7 +25,7 @@ BS Information Technology graduate building full-stack web and mobile applicatio
 ### Selected Work
 
 **[A.R.A.L. AI](https://github.com/Jamir-Lagua/Aral_Repo)** — Adaptive learning platform running at a partner school; adjusts lesson difficulty per student.
-`Typescript` `Gemini API` 'Firebase'
+`Typescript` `Gemini API` `Firebase`
 
 **[AI-powered Rice Yield Prediction & Disaster Risk Assessment system](https://github.com/Jamir-Lagua/strongest-saturn)** — AI-powered rice yield prediction and disaster risk assessment system for Laguna, Philippines. Built with Random Forest ML, Monte Carlo Simulation, Astro.js frontend, and Python Flask API. 3rd Best Thesis out of 25 teams.
 `Python` `PAGASA data` `Machine Learning`
